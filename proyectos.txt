@@ -1,0 +1,29 @@
+✅ Mini Proyecto 1: Agregar elementos a una lista
+🧠 Aprendes: DOM, eventos, createElement, appendChild
+🔧 Objetivo: Capturar texto y mostrarlo como elemento <li>
+
+✔️ Ya te lo entregué arriba (si quieres te lo estructuro de nuevo).
+
+🟨 Mini Proyecto 2: Contador + / -
+🧠 Aprendes: addEventListener, innerText, incremento/decremento
+🔧 Objetivo: Botón para subir o bajar un número.
+
+🟧 Mini Proyecto 3: Validación de formulario
+🧠 Aprendes: condicionales, eventos, manejo de errores
+🔧 Objetivo: Mostrar mensaje si el campo está vacío al hacer submit.
+
+🟦 Mini Proyecto 4: Cambiar color de fondo aleatorio
+🧠 Aprendes: Math.random(), style.backgroundColor
+🔧 Objetivo: Botón que cambia el color del fondo cada vez que se hace clic.
+
+🟩 Mini Proyecto 5: Mostrar/ocultar texto
+🧠 Aprendes: clases CSS, classList.toggle()
+🔧 Objetivo: Botón para mostrar u ocultar un texto secreto.
+
+🟥 Mini Proyecto 6: Mini calculadora (solo suma y resta)
+🧠 Aprendes: obtener valores de inputs numéricos, parsear, lógica
+🔧 Objetivo: Dos inputs y dos botones para sumar/restar.
+
+🟪 Mini Proyecto 7: Cronómetro simple
+🧠 Aprendes: setInterval, clearInterval, lógica de tiempo
+🔧 Objetivo: Botón para iniciar/pausar un cronómetro.
