@@ -1,0 +1,54 @@
+🔥 Siguiente Nivel: Proyectos Intermedios
+✅ Nivel Intermedio – Parte 1: DOM + LocalStorage + Eventos
+Vamos a seguir aprendiendo de forma progresiva. Aquí tienes una ruta ordenada:
+
+🟨 Proyecto 1: Lista de tareas (To-Do List) avanzada
+Aprendes:
+
+LocalStorage
+
+Eventos dinámicos (delegación)
+
+Manejo del DOM
+
+CRUD completo (crear, leer, actualizar, eliminar)
+
+🟨 Proyecto 2: Calculadora de gastos personales
+Aprendes:
+
+Formularios
+
+Tablas dinámicas
+
+Métodos de arrays (map, filter, reduce)
+
+LocalStorage
+
+🟨 Proyecto 3: Buscador en tiempo real
+Aprendes:
+
+Eventos input
+
+Filtros en arrays
+
+Manipulación en vivo del DOM
+
+🟨 Proyecto 4: Generador de contraseñas seguras
+Aprendes:
+
+Math.random y lógica condicional
+
+Checkbox, input range
+
+Buen diseño con JS
+
+🟨 Proyecto 5: Consumir una API pública (Pokémon, Clima o Rick & Morty)
+Aprendes:
+
+Fetch API
+
+Promesas (.then, catch)
+
+Async/Await
+
+JSON y render dinámico
